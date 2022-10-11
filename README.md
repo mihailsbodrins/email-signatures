@@ -1,2 +1,3 @@
 Обзор проекта
-https://github.com/mihailsbodrins/email-signatures.git
+https://mihailsbodrins.github.io/email-signatures/
+https://druzh-irina.github.io/keksobooking/
