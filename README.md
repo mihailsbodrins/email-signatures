@@ -1,4 +1,4 @@
-# Подпись для электронной почты "email-signatures"
+# Подпись для электронной почты
 
 #### Обзор проекта
 https://mihailsbodrins.github.io/email-signatures/
